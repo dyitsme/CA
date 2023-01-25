@@ -4,6 +4,7 @@
 The 2D cellular automata made use of 3 colors, namely black, white, and red. The initial position of the patch is at the center of a white grid with a size of 3 by 3 black pixels. 
 
 The rules are as follows:
+\
 If the current color is white: 
 - If its black Moore neighbors are more than 1 and its red Von Neumann neighbors are more than 1, then set the "new-color" to black.
 - If its red Von Neumann neighbors are more than 1, then set the "new-color" to blue.
