@@ -1,6 +1,6 @@
-## Growing target art
+# Growing target art
 
-### Description
+## About
 The 2D cellular automata made use of 3 colors, namely black, white, and red. The initial position of the patch is at the center of a white grid with a size of 3 by 3 black pixels. 
 
 The rules are as follows:
@@ -17,9 +17,9 @@ If the current color is red:
 
 After determining each patch's "new-color" and saving it in the "new-color" property, apply the "new-color" change to each patch. The rules are then repeated up to 101 times until the pattern is formed. 
 
-### Authors
+## Authors
 - Caoile, Sean
 - Yongco, Denzel
 
-### Image
+## Image
 <img src="target.png">
