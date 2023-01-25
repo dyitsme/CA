@@ -16,4 +16,9 @@ If the current color is red:
 
 After determining each patch's "new-color" and saving it in the "new-color" property, apply the "new-color" change to each patch. The rules are then repeated up to 101 times until the pattern is formed. 
 
-Image:
+Authors:
+Caoile, Sean
+Yongco, Denzel
+
+Image
+<img src="target.png">
