@@ -42,5 +42,4 @@ Second, click on the "go" button which will then run the code. The program will 
 <img src="target.png">
 
 ## Other Images
-<img src="pattern2.jpg">
-<img src="pattern3.jpg">
+<img src="pattern2.jpg"> <img src="pattern3.jpg">
