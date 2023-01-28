@@ -27,7 +27,7 @@ If the current patch color is red:
 
 After determining each patch's "new-color", apply the "new-color" change to each patch which may cause the image to change. 
 
-The rules are then repeated up to 101 times until the pattern is formed. The output of the program remains consistent over multiple reruns with the image alternating over 4 different colored patterns. The following are the alternating patterns.
+The rules are then repeated up to 101 times until the pattern is formed. The output of the program remains consistent over multiple reruns with the image alternating over 3 different colored patterns. The patterns can be seen below.
 
 ## Execution
 To run the program, make sure you are in the interface tab. You can see this at the top of the screen where you will find 3 tabs namely: Interface, Info, Code. 
@@ -38,5 +38,9 @@ Second, click on the "go" button which will then run the code. The program will 
 - Caoile, Sean
 - Yongco, Denzel
 
-## Image
+## Main Image
 <img src="target.png">
+
+## Other Images
+<img src="pattern2.jpg">
+<img src="pattern3.jpg">
